@@ -1,6 +1,11 @@
 body {
 	margin: 0;
 	font-family: Helvetica;
+	background-color: #FFF8E9;
+}
+
+h1 {
+	font-weight: 100;
 }
 
 #logo {
@@ -15,3 +20,4 @@ body {
 	height: 100vh;
 	flex-direction: column;
 }
+
